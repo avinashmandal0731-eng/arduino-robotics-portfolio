@@ -7,7 +7,7 @@ Components Used :
 - Breadboard
 - LED (external)
 - Resistor (100Ω)
-  What I Did:
+- What I Did:
   Watched a tutorial explaining how LEDs function and tested with Arduino.
   Problem Faced:
   Initially confused about LED polarity and resistor placement.
