@@ -1,4 +1,4 @@
-Day 04 - Making a binary counter
+Project_04 - Making a binary counter
 
 Objective:
 
