@@ -1,4 +1,4 @@
-Day 01 - LED Blink (Arduino basics)
+Project_01 - LED Blink (Arduino basics)
 
 Objective:
 Learn how to upload code to Arduino and control the onboard LED.
