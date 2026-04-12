@@ -1,4 +1,4 @@
-Day02 - How LEDs AWork (Arduino basics)
+Project_02 - How LEDs AWork (Arduino basics)
 
 Objective : Understand the working principle of Light Emitting Diodes (LEDs).
 
