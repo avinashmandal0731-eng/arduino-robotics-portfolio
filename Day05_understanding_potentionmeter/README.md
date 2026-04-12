@@ -1,4 +1,4 @@
-Day 05 - making a circuit to measure voltage using potentiometer (Arduino Basic)
+Project_05 - making a circuit to measure voltage using potentiometer (Arduino Basic)
 
 Objective:
 
