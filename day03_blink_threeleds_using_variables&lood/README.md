@@ -1,4 +1,4 @@
-Day03 - Three LEDs blink using variables and loop 
+Project_03 - Three LEDs blink using variables and loop 
 
 Objective : 
 Learn how to use variables and how they easy the work 
